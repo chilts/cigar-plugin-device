@@ -1,7 +1,7 @@
 {
   "name": "cigar-plugin-device",
   "description": "Device utilisation plugin for Cigar which returns the used, free and total disk space of a device.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "scripts": {
     "test": "node test.js"
   },
